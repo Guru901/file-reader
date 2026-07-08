@@ -1,0 +1,202 @@
+[
+  {
+    "id": 1,
+    "title": "Morning Coffee Vibes",
+    "description": "Nothing beats a fresh cup of coffee while watching the sunrise.",
+    "image": "https://picsum.photos/seed/coffee/600/400",
+    "user_id": 12,
+    "likes": 128,
+    "comments": 19,
+    "created_at": "2026-07-07T07:15:00Z"
+  },
+  {
+    "id": 2,
+    "title": "Weekend Hike",
+    "description": "Reached the top after a 3-hour climb. Totally worth it!",
+    "image": "https://picsum.photos/seed/hike/600/400",
+    "user_id": 7,
+    "likes": 342,
+    "comments": 44,
+    "created_at": "2026-07-06T13:22:00Z"
+  },
+  {
+    "id": 3,
+    "title": "New Keyboard",
+    "description": "Finally upgraded to a mechanical keyboard. Loving the feel!",
+    "image": null,
+    "user_id": 19,
+    "likes": 89,
+    "comments": 12,
+    "created_at": "2026-07-05T18:45:00Z"
+  },
+  {
+    "id": 4,
+    "title": "Beach Sunset",
+    "description": "Golden hour never disappoints.",
+    "image": "https://picsum.photos/seed/beach/600/400",
+    "user_id": 3,
+    "likes": 521,
+    "comments": 63,
+    "created_at": "2026-07-04T17:30:00Z"
+  },
+  {
+    "id": 5,
+    "title": "Late Night Coding",
+    "description": "Finally fixed that annoying bug after hours of debugging.",
+    "image": null,
+    "user_id": 21,
+    "likes": 207,
+    "comments": 35,
+    "created_at": "2026-07-04T23:58:00Z"
+  },
+  {
+    "id": 6,
+    "title": "Street Food Adventure",
+    "description": "Tried five different food stalls today. No regrets.",
+    "image": "https://picsum.photos/seed/food/600/400",
+    "user_id": 9,
+    "likes": 410,
+    "comments": 58,
+    "created_at": "2026-07-03T14:10:00Z"
+  },
+  {
+    "id": 7,
+    "title": "Reading Day",
+    "description": "Spent the afternoon with a good book and zero notifications.",
+    "image": null,
+    "user_id": 15,
+    "likes": 74,
+    "comments": 8,
+    "created_at": "2026-07-03T11:20:00Z"
+  },
+  {
+    "id": 8,
+    "title": "Gym Progress",
+    "description": "Hit a new personal best today!",
+    "image": "https://picsum.photos/seed/gym/600/400",
+    "user_id": 18,
+    "likes": 265,
+    "comments": 31,
+    "created_at": "2026-07-02T08:55:00Z"
+  },
+  {
+    "id": 9,
+    "title": "Rainy Evening",
+    "description": "The weather made everything feel peaceful.",
+    "image": "https://picsum.photos/seed/rain/600/400",
+    "user_id": 2,
+    "likes": 156,
+    "comments": 17,
+    "created_at": "2026-07-02T19:40:00Z"
+  },
+  {
+    "id": 10,
+    "title": "First Homemade Pizza",
+    "description": "It wasn't perfect, but it tasted amazing.",
+    "image": "https://picsum.photos/seed/pizza/600/400",
+    "user_id": 24,
+    "likes": 311,
+    "comments": 49,
+    "created_at": "2026-07-01T20:15:00Z"
+  },
+  {
+    "id": 11,
+    "title": "Movie Marathon",
+    "description": "Watched three movies back-to-back today.",
+    "image": null,
+    "user_id": 6,
+    "likes": 98,
+    "comments": 15,
+    "created_at": "2026-07-01T22:05:00Z"
+  },
+  {
+    "id": 12,
+    "title": "City Lights",
+    "description": "The skyline looked incredible tonight.",
+    "image": "https://picsum.photos/seed/city/600/400",
+    "user_id": 14,
+    "likes": 451,
+    "comments": 54,
+    "created_at": "2026-06-30T21:12:00Z"
+  },
+  {
+    "id": 13,
+    "title": "Plant Parent",
+    "description": "My monstera finally grew a new leaf!",
+    "image": "https://picsum.photos/seed/plants/600/400",
+    "user_id": 10,
+    "likes": 187,
+    "comments": 23,
+    "created_at": "2026-06-30T09:18:00Z"
+  },
+  {
+    "id": 14,
+    "title": "Game Night",
+    "description": "Board games with friends never get old.",
+    "image": null,
+    "user_id": 5,
+    "likes": 143,
+    "comments": 16,
+    "created_at": "2026-06-29T20:30:00Z"
+  },
+  {
+    "id": 15,
+    "title": "Road Trip",
+    "description": "No destination, just good music and open roads.",
+    "image": "https://picsum.photos/seed/roadtrip/600/400",
+    "user_id": 17,
+    "likes": 529,
+    "comments": 61,
+    "created_at": "2026-06-29T15:00:00Z"
+  },
+  {
+    "id": 16,
+    "title": "Learning Rust",
+    "description": "Ownership finally makes sense!",
+    "image": null,
+    "user_id": 30,
+    "likes": 276,
+    "comments": 38,
+    "created_at": "2026-06-28T16:25:00Z"
+  },
+  {
+    "id": 17,
+    "title": "Cat Nap",
+    "description": "Caught my cat sleeping in the funniest position.",
+    "image": "https://picsum.photos/seed/cat/600/400",
+    "user_id": 13,
+    "likes": 678,
+    "comments": 95,
+    "created_at": "2026-06-28T12:50:00Z"
+  },
+  {
+    "id": 18,
+    "title": "Photography Walk",
+    "description": "Experimenting with street photography this weekend.",
+    "image": "https://picsum.photos/seed/photo/600/400",
+    "user_id": 8,
+    "likes": 233,
+    "comments": 27,
+    "created_at": "2026-06-27T18:42:00Z"
+  },
+  {
+    "id": 19,
+    "title": "Minimal Workspace",
+    "description": "Clean desk, clear mind.",
+    "image": null,
+    "user_id": 22,
+    "likes": 195,
+    "comments": 22,
+    "created_at": "2026-06-27T10:35:00Z"
+  },
+  {
+    "id": 20,
+    "title": "Sunday Brunch",
+    "description": "Pancakes, fresh juice, and good company.",
+    "image": "https://picsum.photos/seed/brunch/600/400",
+    "user_id": 11,
+    "likes": 362,
+    "comments": 41,
+    "created_at": "2026-06-26T11:45:00Z"
+  }
+]
