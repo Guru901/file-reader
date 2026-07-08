@@ -79,3 +79,9 @@ Return:
 2. Can't use ai in any form.
 3. Can use search engines however you like.
 4. Can't use any "external" libs that can make your life easier can only use built in c libs for file io.
+
+## Recommendation
+
+1. Read about json first.
+2. Read about file handling in c.
+3. Use google as much as you can. don't use geekforgeeks bekar website hai.
