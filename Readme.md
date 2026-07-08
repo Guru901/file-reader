@@ -79,6 +79,7 @@ Return:
 2. Can't use ai in any form.
 3. Can use search engines however you like.
 4. Can't use any "external" libs that can make your life easier can only use built in c libs for file io.
+5. You should know what each and every line of code written in this project does.
 
 ## Recommendation
 
